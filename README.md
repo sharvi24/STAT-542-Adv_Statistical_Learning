@@ -6,7 +6,7 @@ This repository contains the homework solutions in Python.
 
 Homework | Content |
 --- | --- |
-HW1 | Prerequisites - Calculus, Linear ALgebra, Statistics, Programming |  
+HW1 | Prerequisites - Calculus, Linear Algebra, Statistics, Programming |  
 HW2 | KNN, Bias-Variance Trade-off | 
 HW3 | Bias-Variance Results, Linear Model Selection | 
 HW4 | Optimization, Coordinate Descent | 
